@@ -17,60 +17,52 @@ Publications
 
 Work experience
 ======
-* VR Lab at IIT Delhi : Project Scientist<br>
-<i>July 2023 - Now</i>
-  * Working under the guidance of [Prof. Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and [Prof. Subodh Kumar](https://www.cse.iitd.ac.in/~subodh/).
-  * Writing C++ code for real-time rendering of 3d brain ventricle system to simulate neurosurgery conditions for doctors.
-  * Addition and correction of Shader code in OpenGL.
-  * Used Haptics device for feedback and Sofa framework for tearing simulation.
-  * Feedback and improvement loop through regular meetings with professors from IIT Delhi and doctors from AIIMS Delhi.
-  * Project mentioned in [Times Of India(TOI)](https://timesofindia.indiatimes.com/city/delhi/aiims-ai-based-neurosurgery-simulation-training/articleshow/106463303.cms).
+* Erasmus+ Student at Universidad de Zaragoza<br>
+<i>Aug 2025 - Now</i>
+  * Erasmus+ funded exchange under Mobilità Europea Program.
+  * Research focused on electronics and intelligent systems at the intersection of embedded design and applied AI.
   
 
 <br>
-* Video Analytics Lab at IISC Bangalore: Research Assistant<br>
-<i>July 2022 - April 2023</i>
-  * Worked under the guidance of [Prof. Venkatesh Babu](https://cds.iisc.ac.in/faculty/venky/) and his [PhD. Student Rishubh Parihar](https://www.linkedin.com/in/rishubh-parihar/).
-  * Face editing and decomposition using StyleGan models.
-  * 360-degree image rendering from a single human image using stable diffusion.
-  * Rendering datasets from training using Blender Python API.
-  * Out-of-Order Object Removal project so that no trash parts are left behind at the time of repair for Boeing.
+* Information Technology University (ITU) Punjab: Research Assistant<br>
+<i>Sep 2022 - Sep 2024</i>
+  * Worked at [CISS Global](https://www.linkedin.com/company/cissglobal/posts/?feedView=all) under [Dr. Alaa Awad Abdelatif, Dr. Shahzad Ahmad, and Dr. Ammar Rafique](https://www.linkedin.com/in/alaa-awad-abdellatif-63526591).
+  * Focused on UAVs and energy-efficient communication with Deep Learning and Computer Vision.
+  * Contributed to UAV-based object detection and real-time processing systems.
 
 
 <br>
-* LensCorp.ai: Computer Vision Research Engineer<br>
-<i>August 2021 - July 2022</i>
-  * Biometrics and Fingerprint Matching.
-  * Human face manipulation to generate 3d face models.
-
-<br>
-* Spyne.ai: Computer Vision Developer<br>
-<i>August 2021 - July 2022</i>
-  * Implemented Background Removal On Cars, Footwear, and People for marketplace-ready image generation.
-  * Producing Shadows for real-world/near-perfect marketplace-ready images. 
-  * Microsoft Azure, AWS, and GCP Virtual machines and storage management and usage. 
+* DAT-FZCO: Integrator and Research Engineer (Part-Time)<br>
+<i>Sep 2021 - Sep 2024</i>
+  * Worked on Antenna Pattern Generation and Recognition using Deep Neural Networks.
+  * Projects included Image Background Removal, Image Super Resolution, 3D Mesh Generation, and Wave Vision systems.
+  * Applied C++, Python, and AI pipelines to solve signal and vision fusion problems.
 
 
 Education
 ======
-Bachelors of Technology(B. Tech) in Computer Science and Engineering (2020)<br><br>
-<i>Galgotias College of Engineering and Technology</i><br>
-<i>Affliliated to Dr. APJ Abdul Kalam Technology University(AKTU)</i><br>
+Master’s in Electronics for Intelligent Systems, Big-Data, and Internet of Things<br>
+<i>University of Bologna</i><br>
+<i>Sep 2024 - Present</i><br><br>
 
+Erasmus+ Mobility Program<br>
+<i>Universidad de Zaragoza</i><br>
+<i>Sep 2025 - Jan 2025</i><br><br>
+
+Master of Science (MS) in Electrical Engineering<br>
+<i>Information Technology University of the Punjab</i><br>
+<i>2022 - 2024</i><br>
+
+Bachelor of Science (BS) in Electrical Engineering<br>
+<i>Information Technology University of the Punjab</i><br>
+<i>2018 - 2022</i><br>
 
 Skills
 ======
-* Deep Learning, Machine Learning, Computer Vision
-* Python, C++, OpenGL
-* Rendering Pipeline
-* Image and Video Processing
-* Blender and Blender Python
-* Pytorch, Tensorflow
-* Pytorch3d, Openmesh
-* Flask, FastAPI
-* AWS EC2, SageMaker, Lambda
-* GCP, Azure
-* Selenium
-
-
-  
+* Electronics and Interfacing
+* Computer Vision and Deep Learning
+* Python and C++
+* Pytorch
+* FastAPI and Flask
+* Matlab
+* Sensors and Actuations
